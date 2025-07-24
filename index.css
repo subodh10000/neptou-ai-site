@@ -1,0 +1,10 @@
+/* index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Your custom global styles go here */
+body {
+    margin: 0;
+    padding: 0;
+}
